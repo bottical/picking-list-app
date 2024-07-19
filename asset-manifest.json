@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/picking-list-app/static/css/main.e6c13ad2.css",
+    "main.js": "/picking-list-app/static/js/main.ac4c4efe.js",
+    "static/js/453.68de81ea.chunk.js": "/picking-list-app/static/js/453.68de81ea.chunk.js",
+    "index.html": "/picking-list-app/index.html",
+    "main.e6c13ad2.css.map": "/picking-list-app/static/css/main.e6c13ad2.css.map",
+    "main.ac4c4efe.js.map": "/picking-list-app/static/js/main.ac4c4efe.js.map",
+    "453.68de81ea.chunk.js.map": "/picking-list-app/static/js/453.68de81ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ac4c4efe.js"
+  ]
+}
