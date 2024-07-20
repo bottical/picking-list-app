@@ -23,7 +23,47 @@ const simplifiedData: PickingData[] = [
       { productName: 'NEWﾅｲﾄｱｲﾎﾞｰﾃ2(3mL/ｱｲｽﾃｨｯｸ付)', quantity: '1' }
     ]
   },
-  // ... 他のデータ ...
+  {
+    pickingNo: 'PC00004144095',
+    customerName: '齊藤晴香',
+    items: [
+      { productName: '■プレミアムガイドブック', quantity: '1' },
+      { productName: '使い方', quantity: '1' },
+      { productName: 'ケアブック', quantity: '1' },
+      { productName: 'ダイアリーチェックシート(1)', quantity: '1' },
+      { productName: 'NEWﾅｲﾄｱｲﾎﾞｰﾃ2(3mL/ｱｲｽﾃｨｯｸ付)', quantity: '1' }
+    ]
+  },
+  {
+    pickingNo: 'PC00004144096',
+    customerName: '三ツ井明子',
+    items: [
+      { productName: '使い方', quantity: '1' },
+      { productName: 'ダイアリーチェックシート(2)', quantity: '1' },
+      { productName: '特別優待券＆サポート商品紹介', quantity: '1' },
+      { productName: 'NEWﾅｲﾄｱｲﾎﾞｰﾃ2(3mL/ｱｲｽﾃｨｯｸ付)', quantity: '1' }
+    ]
+  },
+  {
+    pickingNo: 'PC00004144097',
+    customerName: '三浦清彦',
+    items: [
+      { productName: '使い方', quantity: '1' },
+      { productName: 'ダイアリーチェックシート(2)', quantity: '1' },
+      { productName: '特別優待券＆サポート商品紹介', quantity: '1' },
+      { productName: 'NEWﾅｲﾄｱｲﾎﾞｰﾃ2(3mL/ｱｲｽﾃｨｯｸ付)', quantity: '1' }
+    ]
+  },
+  {
+    pickingNo: 'PC00004144098',
+    customerName: '小林佳子',
+    items: [
+      { productName: '使い方', quantity: '1' },
+      { productName: 'ダイアリーチェックシート(2)', quantity: '1' },
+      { productName: '特別優待券＆サポート商品紹介', quantity: '1' },
+      { productName: 'NEWﾅｲﾄｱｲﾎﾞｰﾃ2(3mL/ｱｲｽﾃｨｯｸ付)', quantity: '1' }
+    ]
+  }
 ];
 
 const PickingListApp: React.FC = () => {
